@@ -14,7 +14,7 @@
                        '開始' => '開始',
                        '終了' => '終了',
                        '作業中' => '作業中']
-                    )}}
+                    ,null, ['class' => 'form-control'])}}
                 </div>
         
                 <div class="form-group">
